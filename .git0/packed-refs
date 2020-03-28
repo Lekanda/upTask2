@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+39a1af7d54aba7a41ca4024168e227786c0179e1 refs/remotes/origin/dependabot/npm_and_yarn/lodash.merge-4.6.2
+468a11fa8ce10bd7944102681d273383d81bbe0d refs/remotes/origin/dependabot/npm_and_yarn/sequelize-5.15.1
+35d742055e5c5b6a55bc183d52f110967e5b035f refs/remotes/origin/master
